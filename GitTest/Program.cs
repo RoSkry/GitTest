@@ -10,7 +10,10 @@ namespace GitTest
             //Code was addd in github
             //Code wass added in VS
 
-            //Code to calc Feature 1
+            //Code to call Feature 1
+            //Code to call Feature 2
+
+           
                        
             //Code to calc Feature 3
         }
