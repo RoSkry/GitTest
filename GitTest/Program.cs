@@ -9,6 +9,8 @@ namespace GitTest
             Console.WriteLine("Hello World!");
             //Code was addd in github
             //Code wass added in VS
+
+            //Code to calc Feature 1
         }
     }
 }
