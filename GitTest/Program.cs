@@ -11,6 +11,8 @@ namespace GitTest
             //Code wass added in VS
 
             //Code to calc Feature 1
+                       
+            //Code to calc Feature 3
         }
     }
 }
